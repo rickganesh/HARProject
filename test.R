@@ -1,3 +1,3 @@
 get_yesterday <- function(){
-  return(Sys.Date() - 3)
+  return(Sys.Date() - 2)
 }
